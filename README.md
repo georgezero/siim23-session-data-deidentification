@@ -12,7 +12,7 @@
 - Chinmay Singhal
 - Adam Flanders (in absentia)
 - Mohannad Hussain
-- 
+
 A. DICOM Intro and Tags Exploration 
 
 1. Introduction to DICOM
