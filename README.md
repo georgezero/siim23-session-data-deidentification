@@ -25,11 +25,11 @@ Slides: https://siim.skp.one/deid-rsna-midrc-data-workflow
 
 B. DICOM Tag DeID with CTP / Anonymizer and GPT-4
 
-
+https://colab.research.google.com/gist/georgezero/13e74001e0d928f773c6bdd887b71b02/hands-on-dicom-tag-deid-with-gpt-4.ipynb
 
 C. DICOM Pixel DeID using AI
 
-
+https://public.md.ai/annotator/project/QGR7ogRK?clone=1 (Hands On)
 
 D. GPT-4 help for DeID
 
