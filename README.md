@@ -5,10 +5,23 @@
 
 (This page: https://siim.skp.one/deid)
 
+**Speakers**
 
+- Errol Colak 
+- George Shih 
+- Chinmay Singhal
+- Adam Flanders (in absentia)
+- Mohannad Hussain
+- 
 A. DICOM Intro and Tags Exploration 
 
+1. Introduction to DICOM
 
+Slides: https://siim.skp.one/deid-dicom-intro
+
+2. RSNA MIDRC Deid Workflow
+
+Slides: https://siim.skp.one/deid-rsna-midrc-data-workflow
 
 B. DICOM Tag DeID with CTP / Anonymizer and GPT-4
 
