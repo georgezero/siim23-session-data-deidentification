@@ -29,6 +29,8 @@ https://colab.research.google.com/gist/georgezero/13e74001e0d928f773c6bdd887b71b
 
 C. DICOM Pixel DeID using AI
 
+https://docs.google.com/presentation/d/e/2PACX-1vQsB-kmwnIVpN6Fw6fuxg946GNNrTq908JGPdS1fTq0-YBmXJ5UPIPsVaoBWWKZb1h_xzQT9SLS2Ip-/pub
+
 https://public.md.ai/annotator/project/QGR7ogRK?clone=1 (Hands On)
 
 D. GPT-4 help for DeID
