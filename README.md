@@ -1,16 +1,16 @@
 # SIIM23 Annual Meeting - Mastery of Data De-identification
 
 
-## DICOM Intro and Tags Exploration 
+A. DICOM Intro and Tags Exploration 
 
 
 
-## DICOM Tag DeID with CTP / Anonymizer and GPT-4
+B. DICOM Tag DeID with CTP / Anonymizer and GPT-4
 
 
 
-## DICOM Pixel DeID using AI
+C. DICOM Pixel DeID using AI
 
 
 
-## GPT-4 help for DeID
+D. GPT-4 help for DeID
